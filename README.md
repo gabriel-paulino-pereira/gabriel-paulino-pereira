@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gabriel-paulino-pereira
-- 👀 I’m interested in Data Analytics, Artificial Intelligence and Quantum Computing
+- 👀 I’m interested in Data Analytics, Artificial Intelligence 
 - 🌱 I’m currently learning Data Science Basics
-- 💞️ I’m looking to collaborate on Public Data Analysis and the development of Quantum Computing in the future
+- 💞️ I’m looking to collaborate on Public Data Analysis 
 - 📫 How to reach me: I answer faster on LinkedIn: https://www.linkedin.com/in/gabriel-paulino-pereira/
 - 😄 Pronouns: he/him
 
